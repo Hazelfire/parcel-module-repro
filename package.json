@@ -1,0 +1,8 @@
+{
+  "name": "parcel-test",
+  "version": "0.0.0",
+  "scripts": {
+    "run": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  }
+}
